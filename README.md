@@ -14,6 +14,7 @@
 3. Critical Insights
   Root Cause Analysis: ค้นพบว่ายอดที่ตกลงใน Q1-Q2 ปี 2025 ไม่ได้เกิดจาก Operations (Success Rate ยังสูงที่ 88.2%) แต่มาจากปัจจัยภายนอก:  
     Fraud Impact: ปัญหาความผิดปกติจาก Partner ในจีนช่วงต้นปี
+   
     Supply Chain Disruption: ปัญหาสินค้าขาดสต็อกช่วงตรุษจีน (Chinese New Year)
 
   Financial Integrity: ตรวจพบออเดอร์ "Completed" ที่มียอดติดลบ (Revenue Outliers) ซึ่งเป็นรอยรั่วสำคัญที่ต้องตรวจสอบนโยบายการคืนเงิน (Refund Policy)
