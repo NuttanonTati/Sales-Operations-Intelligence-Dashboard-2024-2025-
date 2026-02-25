@@ -7,7 +7,7 @@
   รายได้ในปี 2025 ตกลงอย่างเห็นได้ชัด (39%) ทำให้ต้องการเครื่องมือที่ช่วยวิเคราะห์ว่าเกิดจากประสิทธิภาพการทำงาน หรือปัจจัยภายนอก
 
 2. Tech Stack & Methodology
-  SQL (BigQuery/SQLite): ใช้ทำ Data Cleaning โดยเฉพาะการใช้ CASE WHEN และ SUBSTR เพื่อจัดระเบียบ SKU และการ UNION ALL ข้อมูล 2 ปีเข้าด้วยกัน
+  SQL : ใช้ทำ Data Cleaning โดยเฉพาะการใช้ CASE WHEN และ SUBSTR เพื่อจัดระเบียบ SKU และการ UNION ALL ข้อมูล 2 ปีเข้าด้วยกัน
 
   Google Sheets: สร้าง Interactive Dashboard พร้อมระบบ Slicer เพื่อให้ผู้บริหารเลือกดูข้อมูลตามหมวดหมู่ได้
 
